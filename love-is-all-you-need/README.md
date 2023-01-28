@@ -24,7 +24,7 @@ ayant aussi une catégorie de `1`
 
 ### 💻 Interaction avec la plateforme
 
-Un [starter pack](https://github.com/jactymilena/CSGames2023SelectionPublic/blob/main/love-is-all-you-need/stater_pack.zip) vous est fourni. Pour `entrainer` votre modèle et `prédire` les catégories, vous devez coder les fonctions appropriés dans `model.py`. Vous pouvez regarder `solver.py` pour voir comment les données sont générées et validées, mais *NE PAS MODIFIER CE FICHIER*.
+Un [starter pack](https://github.com/jactymilena/CSGames2023SelectionPublic/blob/main/love-is-all-you-need/starter_pack.zip) vous est fourni. Pour `entrainer` votre modèle et `prédire` les catégories, vous devez coder les fonctions appropriés dans `model.py`. Vous pouvez regarder `solver.py` pour voir comment les données sont générées et validées, mais *NE PAS MODIFIER CE FICHIER*.
 
 `train` prend l'ensemble des données d'apprentissage (*dataset*) `X` and *labels* `Y`
 `predict`  prend votre `model` et tous les tweets `X` à prédire
