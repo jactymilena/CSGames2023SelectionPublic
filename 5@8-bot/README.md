@@ -46,7 +46,7 @@ RRTDDDDFUUUUG
 LLTDDDDRRFUUUULLG
 TDDRRPUULLG
 ```
-Le *flag* sera la concatenation des chemins pour [education](https://github.com/jactymilena/CSGames2023SelectionPublic/blob/main/5@8-bot/education.txt), [science](https://github.com/jactymilena/CSGames2023SelectionPublic/blob/main/5@8-bot/genie.txt), [genie](https://github.com/jactymilena/CSGames2023SelectionPublic/blob/main/5@8-bot/sciences.txt), en ordre, soumis à un algorithme de hachage MD5 et suivant le format `JDIS-{CONTENT_GOES_HERE}`.
+Le *flag* sera la concatenation des chemins pour [education](https://github.com/jactymilena/CSGames2023SelectionPublic/blob/main/5@8-bot/education.txt), [science](https://github.com/jactymilena/CSGames2023SelectionPublic/blob/main/5@8-bot/sciences.txt), [genie](https://github.com/jactymilena/CSGames2023SelectionPublic/blob/main/5@8-bot/genie.txt), en ordre, soumis à un algorithme de hachage MD5 et suivant le format `JDIS-{CONTENT_GOES_HERE}`.
 
 Par exemple, si les chemins sont `UTDBG`, `DTUBG`, `LTRBG`, alors le *flag* sera `JDIS-{fa244afb7adcabbab6021fb9f1ef8e4e}`
 
